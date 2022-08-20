@@ -6,7 +6,7 @@
 <h1>Congratulations Nagmet. You are accepted to the high paid devops engineer position job</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully launched your Instance!</h2>
+<h2>Nagmet, You are badd ass DevOps Engineer!!!</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
