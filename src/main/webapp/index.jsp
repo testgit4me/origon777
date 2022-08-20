@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations Nagmet. You are accepted to the high paid devops engineer position job</h1>
+<h1>Congratulations Nagmet. You are accepted to the high paid Devops Engineer position Job!!!</h1>
 <img src="boxfuse.png">
 
 <h2>Nagmet, You are badd ass DevOps Engineer!!!</h2>
