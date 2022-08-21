@@ -3,7 +3,7 @@
     <title>Boxfuse Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Nagmet Nurimbetov is High Paid DevOps Engineer!!!</h1>
+<h1>Nagmet is High Paid DevOps Engineer!!!</h1>
 <img src="boxfuse.png">
 
 <h2>Nagmet, You are professional, skilled, excellent, badd ass DevOps Engineer!!!</h2>
